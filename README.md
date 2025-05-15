@@ -4,8 +4,6 @@
     <img src="https://readme-typing-svg.demolab.com/?lines=Anaadh;Motion%20Graphic%20Designer;Neural%20Enthusiast;Metaverse%20🇲🇻;&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
-I dont fking know dude.
-
 
 ### Open-source projects
  [![Telellama](https://github-readme-stats.vercel.app/api/pin/?username=Anaadh&repo=telellama)](https://github.com/Anaadh/telellama)
